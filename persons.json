@@ -1,0 +1,40 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "userName": "Vladimir",
+      "email": "vova@gmail.com",
+      "active": false
+    },
+    {
+      "id": 2,
+      "userName": "Vadim",
+      "email": "vadim@gmail.com",
+      "active": true
+    },
+    {
+      "id": 3,
+      "userName": "Lera",
+      "email": "lera@gmail.com",
+      "active": false
+    },
+    {
+      "id": 4,
+      "userName": "Yana",
+      "email": "yana@gmail.com",
+      "active": true
+    },
+    {
+      "id": 5,
+      "userName": "Женя",
+      "email": "evgeniy@gmail.com",
+      "active": false
+    },
+    {
+      "id": 6,
+      "userName": "Глеб",
+      "email": "gleb@gmail.com",
+      "active": true
+    }
+  ]
+}
